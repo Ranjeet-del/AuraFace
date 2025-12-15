@@ -23,3 +23,7 @@ A Face Recognition Based Smart Attendance System using OpenCV and Python.
 ## How to Run
 1. Install dependencies
 2. Run main.py
+
+## 🎥 Project Demo Video
+
+▶️ [Click here to watch AuraFace Demo](AuraFace_Project_Video.mp4)
